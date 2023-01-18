@@ -11,4 +11,13 @@ Calendário de Eventos 2023
 |  Março  | [Arduino Week](https://week.arduino.cc/discover) |
 -
 |  Abril  | [FLISoL - Festival Latinoamericano de Instalação de Software Livre ](https://flisol.info/) |
+-
+|  março a maio	| [Arduino Day SP]() |
+-
+|  março a maio	| [Arduino Day Mauá]() |
+-
+|  Maio	| [CryptoRave]() |
+-
+![image](https://user-images.githubusercontent.com/22666382/213299617-a9a26d42-27d5-4c30-b68f-e0faa6e25143.png)
+
 --------
