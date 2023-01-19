@@ -30,17 +30,17 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 -
 |  25 a 30/07  | [ Campus Party 15 ](https://brasil.campus-party.org/)  |
 -
-|    | [  ](  )  |
+| Agosto | [ Seminário de Proteção à Privacidade ]( https://seminarioprivacidade.cgi.br/ )  |
 -
-|    | [  ](  )  |
+|  19 Agosto ?  | [ Debian Day ]( https://wiki.debian.org/Brasil/Eventos/DebianDayBrasil2020 )  |
 -
-|    | [  ](  )  |
+|  Outubro  | [ LatinoWare ]( https://latinoware.org/ )  |
 -
-|    | [  ](  )  |
+|  Outubro  | [ SP Maker Week ]( https://spmw.prefeitura.sp.gov.br/ )  |
 -
-|    | [  ](  )  |
+|  Outubro  | [ H2HC 20 anos ]( https://www.h2hc.com.br/h2hc/pt/ )  |
 -
-|    | [  ](  )  |
+|  Out / Nov  | [ 13ª Semana de Infraestrutura da Internet ]( https://nic.br/semanainfrabr/ )  |
 -
 |    | [  ](  )  |
 -
