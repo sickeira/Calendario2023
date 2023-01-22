@@ -8,7 +8,7 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 -
 | 18/03/2023 | [TosConf](https://tosconf.lhc.net.br/) |
 -
-|  Março  | [Arduino Week](https://week.arduino.cc/discover) |
+|  25/03/2023  | [Arduino Day Internacional](https://week.arduino.cc/discover) |
 -
 |  Abril  | [FLISoL - Festival Latinoamericano de Instalação de Software Livre ](https://flisol.info/) |
 -
