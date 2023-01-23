@@ -4,6 +4,8 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 --------
 | Confirmado / Estimado |  Evento  |
 -
+| 28/01/2023 | [Acumuladores Anônimos no Garoa](https://garoa.net.br/wiki/Acumuladores_An%C3%B4nimos)|
+-
 | 07/02/2023 | [SID - Safer Internet Day](https://www.safernet.org.br/site/sid2022/o-que-e/) |
 -
 | 18/03/2023 | [TosConf](https://tosconf.lhc.net.br/) |
