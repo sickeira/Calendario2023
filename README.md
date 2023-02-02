@@ -46,7 +46,7 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 -
 |    | [  ](  )  |
 
-** Passados em 2023
+## Passados em 2023
 
 -
 | 28/01/2023 | [Acumuladores Anônimos no Garoa](https://garoa.net.br/wiki/Acumuladores_An%C3%B4nimos)|
