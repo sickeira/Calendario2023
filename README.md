@@ -6,11 +6,15 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 | Confirmado / Estimado |  Evento  |
 
 -
-| 07/02/2023 | [SID - Safer Internet Day](https://www.safernet.org.br/site/sid2022/o-que-e/) | Já tem programação disponível no site.
+| 07/02/2023 | [SID - Safer Internet Day](https://www.safernet.org.br/site/sid2022/o-que-e/) | 
+
+Já tem programação disponível no site.
 -
 | 18/03/2023 | [TosConf](https://tosconf.lhc.net.br/) |
 -
-|  25/03/2023  | [Arduino Day Internacional](https://week.arduino.cc/discover) | Tem um concurso com premiação em (https://blog.arduino.cc/2023/02/01/arduino-day-turns-10-but-you-are-a-10/)[Arduino Day turns 10, but you are a 10!]
+|  25/03/2023  | [Arduino Day Internacional](https://week.arduino.cc/discover) |
+
+Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https://blog.arduino.cc/2023/02/01/arduino-day-turns-10-but-you-are-a-10/)
 -
 |  Abril  | [FLISoL - Festival Latinoamericano de Instalação de Software Livre ](https://flisol.info/) |
 -
