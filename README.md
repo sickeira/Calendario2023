@@ -34,7 +34,9 @@ Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https
 -
 |  Julho  | [ TDC - The Developer's Conference ](https://thedevconf.com/tdc/2023/index.html)  |
 -
-|  15/07/2023  | [ RoadSec 2023 ](https://www.roadsec.com.br/)  |
+|  15/07/2023  | [ RoadSec 2023 ](https://www.roadsec.com.br/)  | 
+
+[Call 4 Papers da RoadSec](https://www.roadsec.com.br/call-for-papers) aberto até 12/04  
 -
 |  25 a 30/07  | [ Campus Party 15 ](https://brasil.campus-party.org/)  |
 -
