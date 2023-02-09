@@ -6,11 +6,6 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 | Confirmado / Estimado |  Evento  |
 
 -
-| 07/02/2023 | [SID - Safer Internet Day](https://www.safernet.org.br/site/sid2022/o-que-e/) | 
-
-Já tem programação disponível no site.
-
--
 | 18/03/2023 | [TosConf](https://tosconf.lhc.net.br/) |
 -
 |  25/03/2023  | [Arduino Day Internacional](https://week.arduino.cc/discover) |
@@ -58,6 +53,8 @@ Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https
 
 -
 | 28/01/2023 | [Acumuladores Anônimos no Garoa](https://garoa.net.br/wiki/Acumuladores_An%C3%B4nimos)|
+-
+| 07/02/2023 | [SID - Safer Internet Day](https://www.safernet.org.br/site/sid2022/o-que-e/) | 
 -
 |    | [  ](  )  |
 
