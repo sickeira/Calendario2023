@@ -19,7 +19,7 @@ Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https
 -
 |  março a maio	| [Arduino Day Mauá](https://www.instagram.com/arduinodaymaua/) |
 -
-|  Maio	| [CryptoRave](https://cryptorave.org/) |
+| 5 e 6 de  Maio	| [CryptoRave](https://cryptorave.org/) |
 -
 |  27 e 28/05  | [ BSides São Paulo ](https://securitybsides.com.br/2022/)  |
 -
