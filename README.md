@@ -47,6 +47,8 @@ Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https
 -
 |  Out / Nov  | [ 13ª Semana de Infraestrutura da Internet ]( https://nic.br/semanainfrabr/ )  |
 -
+| 18 e 19/11/2023 | [ RoboCar Race 2023 ]( http://www.robocarrace.com.br/ ) |
+-
 |    | [  ](  )  |
 
 ## Passados em 2023
