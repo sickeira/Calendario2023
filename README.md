@@ -39,7 +39,7 @@ Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https
 -
 |  19 Agosto ?  | [ Debian Day ]( https://wiki.debian.org/Brasil/Eventos/DebianDayBrasil2020 )  |
 -
-|  Outubro  | [ LatinoWare ]( https://latinoware.org/ )  |
+|  11 a 13/10  | [ LatinoWare ]( https://latinoware.org/ )  |
 -
 |  Outubro  | [ SP Maker Week ]( https://spmw.prefeitura.sp.gov.br/ )  |
 -
