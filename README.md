@@ -13,7 +13,7 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https://blog.arduino.cc/2023/02/01/arduino-day-turns-10-but-you-are-a-10/)
 
 -
-| 28/03/2023 | [Call 4 Proposals CryptoRave ](https://dandara.vedetas.org/index.php/173617?lang=pt-BR) |
+| 28/03/2023 | [Call 4 Proposals CryptoRave ](https://dandara.vedetas.org/index.php/173617?lang=pt-BR) |enceramento
 -
 |  Abril  | [FLISoL - Festival Latinoamericano de Instalação de Software Livre ](https://flisol.info/) |
 -
