@@ -61,6 +61,10 @@ Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https
 | 07/02/2023 | [SID - Safer Internet Day](https://www.safernet.org.br/site/sid2022/o-que-e/) | 
 -
 |    | [  ](  )  |
+-
+|    | [  ](  )  |
+-
+|    | [  ](  )  |
 
 ![image](https://user-images.githubusercontent.com/22666382/213299617-a9a26d42-27d5-4c30-b68f-e0faa6e25143.png)
 
