@@ -5,15 +5,10 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 
 | Confirmado / Estimado |  Evento  |
 
--
-| 18/03/2023 | [TosConf](https://tosconf.lhc.net.br/) |
--
-|  25/03/2023  | [Arduino Day Internacional](https://week.arduino.cc/discover) |
 
-Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https://blog.arduino.cc/2023/02/01/arduino-day-turns-10-but-you-are-a-10/)
 
 -
-| 28/03/2023 | [Call 4 Proposals CryptoRave ](https://dandara.vedetas.org/index.php/173617?lang=pt-BR) |enceramento
+| 28/03/2023 adiado para 10/04/2023 | [Call 4 Proposals CryptoRave ](https://dandara.vedetas.org/index.php/173617?lang=pt-BR) |enceramento
 -
 |  Abril  | [FLISoL - Festival Latinoamericano de Instalação de Software Livre ](https://flisol.info/) |
 -
@@ -37,7 +32,7 @@ Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https
 -
 |  25 a 30/07  | [ Campus Party 15 ](https://brasil.campus-party.org/)  |
 -
-| Agosto | [ Seminário de Proteção à Privacidade ]( https://seminarioprivacidade.cgi.br/ )  |
+| 15 a 17/08/2023|  | [ Seminário de Proteção à Privacidade ]( https://seminarioprivacidade.cgi.br/ )  |
 -
 |  19 Agosto ?  | [ Debian Day ]( https://wiki.debian.org/Brasil/Eventos/DebianDayBrasil2020 )  |
 -
@@ -60,6 +55,12 @@ Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https
 -
 | 07/02/2023 | [SID - Safer Internet Day](https://www.safernet.org.br/site/sid2022/o-que-e/) | 
 -
+-
+| 18/03/2023 | [TosConf](https://tosconf.lhc.net.br/) |
+-
+|  25/03/2023  | [Arduino Day Internacional](https://week.arduino.cc/discover) |
+
+Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https://blog.arduino.cc/2023/02/01/arduino-day-turns-10-but-you-are-a-10/)
 |    | [  ](  )  |
 -
 |    | [  ](  )  |
