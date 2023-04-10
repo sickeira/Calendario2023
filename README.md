@@ -24,6 +24,8 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 -
 |  29/05/2023  | [ You Sh0t The Sheriff 15 ](https://www.ysts.org/)  |
 -
+|  07 a 11/06/2023  | [ Campus Party Goiás ](https://brasil.campus-party.org/cpgoias3/ingressos/)  | 
+-
 |  13 a 15/06  | [ ExpoSec 2023 ](https://exposec.tmp.br/16/)  |
 -
 |  Julho  | [ TDC - The Developer's Conference ](https://thedevconf.com/tdc/2023/index.html)  |
