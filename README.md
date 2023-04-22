@@ -8,15 +8,9 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 
 
 -
-| 28/03/2023 adiado para 10/04/2023 | [Call 4 Proposals CryptoRave ](https://dandara.vedetas.org/index.php/173617?lang=pt-BR) |enceramento
+
 -
-|  Abril  | [FLISoL - Festival Latinoamericano de Instalação de Software Livre ](https://flisol.info/) |
--
-|  março a maio	| [Arduino Day SP](https://fablablivresp.github.io/arduinodaysp/) |
--
-|  março a maio	| [Arduino Day Mauá](https://www.instagram.com/arduinodaymaua/) |
--
-|  12/04 | [Call 4 Papers da RoadSec](https://www.roadsec.com.br/call-for-papers) enceramento
+|  Adiado para 05/05 era 12/04 | [Call 4 Papers da RoadSec](https://www.roadsec.com.br/call-for-papers) enceramento
 -
 | 5 e 6 de  Maio	| [CryptoRave](https://cryptorave.org/) |
 -
@@ -61,6 +55,15 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 | 18/03/2023 | [TosConf](https://tosconf.lhc.net.br/) |
 -
 |  25/03/2023  | [Arduino Day Internacional](https://week.arduino.cc/discover) |
+-
+| 28/03/2023 adiado para 10/04/2023 | [Call 4 Proposals CryptoRave ](https://dandara.vedetas.org/index.php/173617?lang=pt-BR) |enceramento
+-
+|  Abril  | [FLISoL - Festival Latinoamericano de Instalação de Software Livre ](https://flisol.info/) |
+-
+|  março a maio	| [Arduino Day SP](https://fablablivresp.github.io/arduinodaysp/) |
+-
+|  março a maio	| [Arduino Day Mauá](https://www.instagram.com/arduinodaymaua/) |
+
 
 Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https://blog.arduino.cc/2023/02/01/arduino-day-turns-10-but-you-are-a-10/)
 |    | [  ](  )  |
