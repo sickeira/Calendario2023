@@ -5,16 +5,6 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 
 | Confirmado / Estimado |  Evento  |
 
-
-
--
-
--
-|  Adiado para 05/05 era 12/04 | [Call 4 Papers da RoadSec](https://www.roadsec.com.br/call-for-papers) enceramento
--
-| 5 e 6 de  Maio	| [CryptoRave](https://cryptorave.org/) |
--
-|  27 e 28/05  | [ BSides São Paulo ](https://securitybsides.com.br/2022/)  |
 -
 |  29/05/2023  | [ You Sh0t The Sheriff 15 ](https://www.ysts.org/)  |
 -
@@ -23,6 +13,8 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 |  13 a 15/06  | [ ExpoSec 2023 ](https://exposec.tmp.br/16/)  |
 -
 |  Julho  | [ TDC - The Developer's Conference ](https://thedevconf.com/tdc/2023/index.html)  |
+-
+|  Adiado para 24 e 25/06 | [ BSides São Paulo ](https://securitybsides.com.br/2022/)  |
 -
 |  15/07/2023  | [ RoadSec 2023 ](https://www.roadsec.com.br/)  | 
 -
@@ -63,6 +55,10 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 |  março a maio	| [Arduino Day SP](https://fablablivresp.github.io/arduinodaysp/) |
 -
 |  março a maio	| [Arduino Day Mauá](https://www.instagram.com/arduinodaymaua/) |
+-
+|  Adiado para 05/05 era 12/04 | [Call 4 Papers da RoadSec](https://www.roadsec.com.br/call-for-papers) enceramento
+-
+| 5 e 6 de  Maio	| [CryptoRave](https://cryptorave.org/) |
 
 
 Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https://blog.arduino.cc/2023/02/01/arduino-day-turns-10-but-you-are-a-10/)
