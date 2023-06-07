@@ -5,8 +5,7 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 
 | Confirmado / Estimado |  Evento  |
 
--
-|  29/05/2023  | [ You Sh0t The Sheriff 15 ](https://www.ysts.org/)  |
+
 -
 |  07 a 11/06/2023  | [ Campus Party Goiás ](https://brasil.campus-party.org/cpgoias3/ingressos/)  | 
 -
@@ -59,9 +58,10 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 |  Adiado para 05/05 era 12/04 | [Call 4 Papers da RoadSec](https://www.roadsec.com.br/call-for-papers) enceramento
 -
 | 5 e 6 de  Maio	| [CryptoRave](https://cryptorave.org/) |
-
-
+-
 Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https://blog.arduino.cc/2023/02/01/arduino-day-turns-10-but-you-are-a-10/)
+-
+|  29/05/2023  | [ You Sh0t The Sheriff 15 ](https://www.ysts.org/)  |
 |    | [  ](  )  |
 -
 |    | [  ](  )  |
