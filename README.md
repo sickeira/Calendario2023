@@ -7,29 +7,10 @@ Calendário de Eventos 2023, até o momento cadastrei 19 eventos relacionados co
 
 
 -
-|  07 a 11/06/2023  | [ Campus Party Goiás ](https://brasil.campus-party.org/cpgoias3/ingressos/)  | 
 -
-|  13 a 15/06  | [ ExpoSec 2023 ](https://exposec.tmp.br/16/)  |
+| 9 e 10 de Dezembro  | [ H2HC 20 anos ]( https://www.h2hc.com.br/h2hc/pt/ )  |
 -
-|  Julho  | [ TDC - The Developer's Conference ](https://thedevconf.com/tdc/2023/index.html)  |
--
-|  Adiado para 24 e 25/06 | [ BSides São Paulo ](https://securitybsides.com.br/2022/)  |
--
-|  15/07/2023  | [ RoadSec 2023 ](https://www.roadsec.com.br/)  | 
--
-|  25 a 30/07  | [ Campus Party 15 ](https://brasil.campus-party.org/)  |
--
-| 15 a 17/08/2023|  | [ Seminário de Proteção à Privacidade ]( https://seminarioprivacidade.cgi.br/ )  |
--
-|  19 Agosto ?  | [ Debian Day ]( https://wiki.debian.org/Brasil/Eventos/DebianDayBrasil2020 )  |
--
-|  11 a 13/10  | [ LatinoWare ]( https://latinoware.org/ )  |
--
-|  Outubro  | [ SP Maker Week ]( https://spmw.prefeitura.sp.gov.br/ )  |
--
-|  Outubro  | [ H2HC 20 anos ]( https://www.h2hc.com.br/h2hc/pt/ )  |
--
-|  Out / Nov  | [ 13ª Semana de Infraestrutura da Internet ]( https://nic.br/semanainfrabr/ )  |
+| 4 a 8 de Dezembro  | [ 13ª Semana de Infraestrutura da Internet ]( https://nic.br/semanainfrabr/ )  |
 -
 | 18 e 19/11/2023 | [ RoboCar Race 2023 ]( http://www.robocarrace.com.br/ ) |
 -
@@ -63,6 +44,26 @@ Tem um concurso com premiação em [Arduino Day turns 10 but you are a 10](https
 -
 |  29/05/2023  | [ You Sh0t The Sheriff 15 ](https://www.ysts.org/)  |
 |    | [  ](  )  |
+
+|  07 a 11/06/2023  | [ Campus Party Goiás ](https://brasil.campus-party.org/cpgoias3/ingressos/)  | 
+-
+|  13 a 15/06  | [ ExpoSec 2023 ](https://exposec.tmp.br/16/)  |
+-
+|  Julho  | [ TDC - The Developer's Conference ](https://thedevconf.com/tdc/2023/index.html)  |
+-
+|  Adiado para 24 e 25/06 | [ BSides São Paulo ](https://securitybsides.com.br/2022/)  |
+-
+|  15/07/2023  | [ RoadSec 2023 ](https://www.roadsec.com.br/)  | 
+-
+|  25 a 30/07  | [ Campus Party 15 ](https://brasil.campus-party.org/)  |
+-
+| 15 a 17/08/2023|  | [ Seminário de Proteção à Privacidade ]( https://seminarioprivacidade.cgi.br/ )  |
+-
+|  19 Agosto ?  | [ Debian Day ]( https://wiki.debian.org/Brasil/Eventos/DebianDayBrasil2020 )  |
+-
+|  11 a 13/10  | [ LatinoWare ]( https://latinoware.org/ )  |
+-
+|  Outubro  | [ SP Maker Week ]( https://spmw.prefeitura.sp.gov.br/ )  |
 -
 |    | [  ](  )  |
 -
